@@ -11,6 +11,14 @@ public class HelloController {
     @RequestMapping(value = "/helloBody",  method = RequestMethod.GET)
     @ResponseBody
     public String hello(){
+        try
+        {
+            Thread.sleep(100);
+        }catch (InterruptedException e)
+        {
+            e.printStackTrace();
+        }
+
         return "hello";
     }
 
