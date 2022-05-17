@@ -20,6 +20,20 @@
           <element id="library" level="project" name="Maven: org.springframework:spring-webmvc:4.3.18.RELEASE" />
           <element id="library" level="project" name="Maven: org.aspectj:aspectjrt:1.9.9.1" />
           <element id="library" level="project" name="Maven: org.aspectj:aspectjweaver:1.9.9.1" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.9.3" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-core:2.9.3" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.9.3" />
+          <element id="library" level="project" name="Maven: com.google.protobuf:protobuf-java:3.11.4" />
+          <element id="library" level="project" name="Maven: com.googlecode.json-simple:json-simple:1.1.1" />
+          <element id="library" level="project" name="Maven: commons-dbcp:commons-dbcp:1.4" />
+          <element id="library" level="project" name="Maven: commons-pool:commons-pool:1.5.4" />
+          <element id="library" level="project" name="Maven: junit:junit:4.10" />
+          <element id="library" level="project" name="Maven: mysql:mysql-connector-java:8.0.28" />
+          <element id="library" level="project" name="Maven: org.hamcrest:hamcrest-core:1.1" />
+          <element id="library" level="project" name="Maven: org.mybatis:mybatis-spring:1.2.0" />
+          <element id="library" level="project" name="Maven: org.mybatis:mybatis:3.2.2" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-jdbc:4.3.18.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-tx:4.3.18.RELEASE" />
         </element>
       </element>
     </root>
